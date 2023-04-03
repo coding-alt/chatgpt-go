@@ -1,0 +1,10 @@
+{
+    "PROXY_OPTION": "{PROXY OPTION}",
+    "APIKEY": "{OPENAI KEY}",
+    "API_URL": "https://api.openai.com/v1/completions",
+    "API_MODEL": "text-davinci-003",
+    "API_MAX_TOKENS":   2048,
+	"API_TEMPERATURE": 0,
+	"API_STREAM":      true,
+    "API_TIMEOUT": 10
+}
