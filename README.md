@@ -8,7 +8,7 @@
 
 在 `config.json` 文件中，配置以下参数：
 
-- `PROXY_OPTION`: 代理选项。例如，可以配置为 "DIRECT"（无代理）或 "SOCKS5 127.0.0.1:5000"（SOCKS5 代理）
+- `PROXY_OPTION`: 代理选项。例如，可以配置为 "DIRECT"（无代理）或 "SOCKS5 127.0.0.1:5000"（SOCKS5 代理）或 "HTTP 127.0.0.1:5000"（HTTP 代理）
 - `APIKEY`: API 密钥
 - `API_URL`: API URL，例如 "https://api.openai.com/v1/completions"
 - `MODEL`: 模型名称，例如 "text-davinci-003"
